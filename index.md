@@ -1,13 +1,8 @@
----
-# Do not edit the text between these lines!
-layout: default
----
+Summary 
+We analyzed survey data from COMP110. We wanted to see if visiting office hours is associated with higher self reported understanded 
 
-# This is a big header
+Analysis 
+We looked at how often students visited office hours and compared that to their self-reported understanding level, filtering out incomplete responses
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
-## This is a small header
-
-This is basic paragraph text.
+Conclusion
+The data was inconclusive; students who visited once or twice showed slightly higher understanding, but even people who went a lot were still confused
